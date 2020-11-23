@@ -519,8 +519,8 @@ $element->add_control(
 				'transparent!' => '',
 			],
 			'selectors' => [
-				'{{WRAPPER}} .elementor-widget-theme-site-logo img.change-logo-color' => '-webkit-filter: ""; filter: ""; transition: all .4s ease-in-out 0s;',
-				'{{WRAPPER}} .logo img.change-logo-color' => '-webkit-filter: "none"; filter: "none"; transition: all .4s ease-in-out 0s;',
+				'{{WRAPPER}} .elementor-widget-theme-site-logo img.change-logo-color' => '-webkit-filter: brightness(1) invert(0) !important; filter: brightness(1) invert(0) !important; transition: all .4s ease-in-out 0s;',
+				'{{WRAPPER}} .logo img.change-logo-color' => '-webkit-filter: brightness(1) invert(0) !important; filter: brightness(1) invert(0) !important; transition: all .4s ease-in-out 0s;',
 			],
 		]
 	);

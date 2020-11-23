@@ -3,7 +3,7 @@
  * Plugin Name:			Sticky Header Effects for Elementor
  * Plugin URI:			https://stickyheadereffects.com
  * Description:			Options and features that extend Elementor Pro's sticky header capabilities.
- * Version:				1.4.2
+ * Version:				1.4.3
  * Author:				Rwattner
  * Author URI:			https://stickyheadereffects.com
  * Requires at least:	4.9.0
@@ -19,8 +19,8 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
-define( 'SHE_HEADER_VERSION', '1.4.2' );
-define( 'SHE_HEADER_PREVIOUS_STABLE_VERSION', '1.4.1' );
+define( 'SHE_HEADER_VERSION', '1.4.3' );
+define( 'SHE_HEADER_PREVIOUS_STABLE_VERSION', '1.4.2' );
 
 define( 'SHE_HEADER__FILE__', __FILE__ );
 define( 'SHE_HEADER_PLUGIN_BASE', plugin_basename( SHE_HEADER__FILE__ ) );

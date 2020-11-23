@@ -6,7 +6,7 @@ Tags: Elementor, Elementor Page Builder, Elements, Elementor Add-ons, Add-ons, P
 Requires at least: 4.9.0
 Tested up to: 5.5
 Requires PHP: 5.4
-Stable tag: 1.4.2
+Stable tag: 1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -91,6 +91,9 @@ Sticky Header Options for Elementor is light-weight and you can also use only th
 
 == Changelog ==
 
+= 1.4.3 =
+Fixed: Full color logo after scroll bug
+
 = 1.4.2 =
 Fixed: Bugs
 
@@ -153,6 +156,9 @@ Fixed: Gap above header bug
 - Initial stable release
 
 == Upgrade Notice ==
+
+= 1.4.3 =
+Fixed: Full color logo after scroll bug
 
 = 1.4.2 =
 Fixed: Bugs
