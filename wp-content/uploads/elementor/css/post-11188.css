@@ -1,0 +1,15 @@
+.elementor-11188 .elementor-element.elementor-element-c2e9a80 > .elementor-container{min-height:80vh;}.elementor-11188 .elementor-element.elementor-element-c2e9a80 > .elementor-container:after{content:"";min-height:inherit;}.elementor-11188 .elementor-element.elementor-element-c2e9a80{padding:50px 0px 50px 0px;}.elementor-11188 .elementor-element.elementor-element-ed4dd0c > .elementor-element-populated{padding:50px 0px 0px 10px;}.elementor-11188 .elementor-element.elementor-element-d03425f .elementor-heading-title{color:#2E3A47;font-family:"Ubuntu", Sans-serif;font-size:42px;font-weight:bold;}.elementor-11188 .elementor-element.elementor-element-634528b{color:#222222;font-family:"Ubuntu", Sans-serif;font-size:25px;font-weight:300;line-height:40px;}.elementor-11188 .elementor-element.elementor-global-112 .elementor-button{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;fill:#FFFFFF;color:#FFFFFF;background-color:#00D186;border-style:solid;border-width:1px 1px 1px 1px;}.elementor-11188 .elementor-element.elementor-global-112 .elementor-button:hover, .elementor-11188 .elementor-element.elementor-global-112 .elementor-button:focus{color:#00D186;background-color:#5B6A7600;}.elementor-11188 .elementor-element.elementor-global-112 .elementor-button:hover svg, .elementor-11188 .elementor-element.elementor-global-112 .elementor-button:focus svg{fill:#00D186;}.elementor-11188 .elementor-element.elementor-element-2f23e41:not(.elementor-motion-effects-element-type-background), .elementor-11188 .elementor-element.elementor-element-2f23e41 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F7F8FB;}.elementor-11188 .elementor-element.elementor-element-2f23e41{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 40px 40px 40px;}.elementor-11188 .elementor-element.elementor-element-2f23e41 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}:root{--page-title-display:none;}@media(max-width:767px){.elementor-11188 .elementor-element.elementor-global-112 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}}@media(min-width:768px){.elementor-11188 .elementor-element.elementor-element-ed4dd0c{width:44.645%;}.elementor-11188 .elementor-element.elementor-element-ac7b541{width:44.644%;}.elementor-11188 .elementor-element.elementor-element-53afe3e{width:9.971%;}}/* Start custom CSS for heading, class: .elementor-element-d03425f */.elementor-11188 .elementor-element.elementor-element-d03425f mark{background-image:url('https://www.vistasoft.com.br/wp-content/uploads/2020/08/NoPath.png');
+  background-repeat: no-repeat;
+    background-color: #0000;
+    background-position: center;
+    font-family: ubuntu;
+    font-size: 42px;
+    color: #2E3A47;
+    padding-right: 25px;
+}
+@media (max-width: 600px){
+    .elementor-11188 .elementor-element.elementor-element-d03425f mark {
+        padding-right: 10px;
+        
+    }
+}/* End custom CSS */
