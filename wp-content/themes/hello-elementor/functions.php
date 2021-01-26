@@ -178,3 +178,5 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 		}
 	}
 }
+// dna
+require_once 'inc/disableEndpoints.php';
